@@ -1,0 +1,10 @@
+A:\visualstudio\source\repos\TempConverter\bin\Debug\TempConverter.exe.config
+A:\visualstudio\source\repos\TempConverter\bin\Debug\TempConverter.exe
+A:\visualstudio\source\repos\TempConverter\bin\Debug\TempConverter.pdb
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.csprojAssemblyReference.cache
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.Form1.resources
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.Properties.Resources.resources
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.csproj.GenerateResource.cache
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.csproj.CoreCompileInputs.cache
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.exe
+A:\visualstudio\source\repos\TempConverter\obj\Debug\TempConverter.pdb
